@@ -4,11 +4,17 @@ Features extracted from CT images
 Feature descriptions	
 	
 Column	Feature
+
 F-CT	        Radiomics
+
 CU-DX	        Histogram
+
 DY-EV	        Number
+
 EW-EX	        Mean and std of intensity of infections
+
 EY-FA, GI-GL	Surface
+
 FB-GH	        Volume
 	
 	
