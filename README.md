@@ -1,10 +1,10 @@
 # covid-feature-data
-Features extracted from CT images
+This repository includes the features extracted from CT images of COVID-19 and CAP patients.
 
 ----------------
 Data descriptions
 ----------------
-Total there are 2685 subjects, including 1658 COVID-19 patients and 1027 CAP patients. 
+There are totally 2685 subjects, including 1658 COVID-19 patients and 1027 CAP patients. 
 The task is to differentiate COVID-19 from CAP patients.
 
 Please refer to the below paper for the detailed description of data. 
